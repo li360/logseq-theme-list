@@ -34,9 +34,8 @@ logseq theme list
 
 ## [logseq-cusgit-theme](https://github.com/mendax1234/logseq-cusgit-theme)
 ### Preview
-![Preview]()
-![Light Mode]()
-![Dark Mode]()
+![Light Mode](https://github.com/mendax1234/logseq-cusgit-theme/blob/main/media/Light.png)
+![Dark Mode](https://github.com/mendax1234/logseq-cusgit-theme/blob/main/media/Dark.png)
 
 ## []()
 ### Preview
