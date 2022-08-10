@@ -50,11 +50,10 @@ logseq theme list
 ![light theme](https://user-images.githubusercontent.com/58762081/123221022-13df0a80-d501-11eb-939a-16b87f1d7233.png)
 
 
-## []()
+## [Logseq Dev Theme](https://github.com/pengx17/logseq-dev-theme)
 ### Preview
-![Preview]()
-![Light Mode]()
-![Dark Mode]()
+![Preview](https://github.com/pengx17/logseq-dev-theme/blob/main/demo.png)
+https://user-images.githubusercontent.com/584378/128587194-bd775264-b3ba-4303-8595-060953fe8030.mp4
 
 ## []()
 ### Preview
