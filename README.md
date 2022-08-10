@@ -53,19 +53,18 @@ logseq theme list
 ## [Logseq Dev Theme](https://github.com/pengx17/logseq-dev-theme)
 ### Preview
 ![Preview](https://github.com/pengx17/logseq-dev-theme/blob/main/demo.png)
+
 https://user-images.githubusercontent.com/584378/128587194-bd775264-b3ba-4303-8595-060953fe8030.mp4
 
-## []()
+## [logseq-discord-like-dark-theme](https://github.com/dale502/logseq-discord-like-dark-theme)
 ### Preview
-![Preview]()
-![Light Mode]()
-![Dark Mode]()
+![Preview](https://github.com/dale502/logseq-discord-like-dark-theme/raw/main/images/preview.jpg?raw=true)
 
-## []()
+
+## [Dracula for Logseq](https://github.com/dracula/logseq)
 ### Preview
-![Preview]()
-![Light Mode]()
-![Dark Mode]()
+![Preview](https://github.com/dracula/logseq/blob/master/screenshot.png)
+
 
 ## []()
 ### Preview
