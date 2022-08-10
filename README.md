@@ -18,6 +18,26 @@ logseq theme list
 ### Preview
 ![Preview](https://github.com/Sansui233/logseq-bonofix-theme/raw/master/media/Desktop-2022-05-23.jpg)
 
+## [logseq-chocolate](https://github.com/nmartin84/logseq-chocolate)
+### Preview
+![Light Mode](https://github.com/nmartin84/logseq-chocolate/raw/main/assets/screenshot1.png)
+![Dark Mode](https://github.com/nmartin84/logseq-chocolate/raw/main/assets/screenshot2.png)
+
+## [Logseq Theme: Cobra](https://github.com/santiyounger/Cobra)
+### Preview
+![Dark Mode](https://github.com/santiyounger/Cobra/raw/main/img/dark-cobra-logseq.png)
+
+## [Craft for Logseq](https://github.com/rcvd/logseq-craft-theme)
+### Preview
+![Light Mode](https://github.com/rcvd/logseq-craft-theme/blob/main/screenshots/light.png)
+![Dark Mode](https://github.com/rcvd/logseq-craft-theme/blob/main/screenshots/dark.png)
+
+## [logseq-cusgit-theme](https://github.com/mendax1234/logseq-cusgit-theme)
+### Preview
+![Preview]()
+![Light Mode]()
+![Dark Mode]()
+
 ## []()
 ### Preview
 ![Preview]()
