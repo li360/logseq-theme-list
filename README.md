@@ -66,11 +66,32 @@ https://user-images.githubusercontent.com/584378/128587194-bd775264-b3ba-4303-85
 ![Preview](https://github.com/dracula/logseq/blob/master/screenshot.png)
 
 
-## []()
+## [logseq-eink-theme](https://github.com/DiamondYuan/logseq-eink-theme)
 ### Preview
-![Preview]()
-![Light Mode]()
-![Dark Mode]()
+![Preview](https://github.com/DiamondYuan/logseq-eink-theme/blob/main/screenshoot.jpeg)
+
+
+## [logseq-github-theme](https://github.com/DiamondYuan/logseq-eink-theme/blob/main/screenshoot.jpeg)
+### Preview
+![Light Mode](https://github.com/g1eny0ung/logseq-github-theme/blob/main/screenshots/light.png)
+![Dark Mode](https://github.com/g1eny0ung/logseq-github-theme/blob/main/screenshots/dark.png)
+![dark-dimmed](https://github.com/g1eny0ung/logseq-github-theme/blob/main/screenshots/dark-dimmed.png)
+
+## [Gunmetal Theme](https://github.com/blueteafrog/logseq-gunmetal-theme)
+### Preview
+![Preview1](https://user-images.githubusercontent.com/7694090/150065764-01d20835-42b3-4e6c-8918-d6d139a6b9be.png)
+![Preview2](https://user-images.githubusercontent.com/7694090/150065756-f83a8882-5e21-4c2e-88e6-8bcf503f3db2.png)
+
+
+## [Logseq miA theme](https://github.com/playerofgames/logseq-mia-theme)
+### Preview
+![Light Mode](https://github.com/playerofgames/logseq-mia-theme/blob/master/screenshots/miA-light.png)
+![Dark Mode](https://github.com/playerofgames/logseq-mia-theme/blob/master/screenshots/miA-dark.png)
+
+## [Mocha Theme](https://github.com/blueteafrog/logseq-mocha-theme)
+### Preview
+![Preview1](https://user-images.githubusercontent.com/7694090/147842600-b004de9b-adb6-4d2e-9396-eca1d9bb2c97.png)
+![Preview2](https://user-images.githubusercontent.com/7694090/147842601-4e3d4d97-549c-49e1-b15e-eed4152f80e6.png)
 
 ## []()
 ### Preview
@@ -78,11 +99,6 @@ https://user-images.githubusercontent.com/584378/128587194-bd775264-b3ba-4303-85
 ![Light Mode]()
 ![Dark Mode]()
 
-## []()
-### Preview
-![Preview]()
-![Light Mode]()
-![Dark Mode]()
 
 ## []()
 ### Preview
@@ -90,11 +106,27 @@ https://user-images.githubusercontent.com/584378/128587194-bd775264-b3ba-4303-85
 ![Light Mode]()
 ![Dark Mode]()
 
+
 ## []()
 ### Preview
 ![Preview]()
 ![Light Mode]()
 ![Dark Mode]()
+
+
+## []()
+### Preview
+![Preview]()
+![Light Mode]()
+![Dark Mode]()
+
+
+## []()
+### Preview
+![Preview]()
+![Light Mode]()
+![Dark Mode]()
+
 
 ## []()
 ### Preview
